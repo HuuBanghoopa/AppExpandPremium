@@ -1,4 +1,4 @@
-package com.testdimay
+package com.appexpandpremium
 
 import android.app.Application
 import com.facebook.react.PackageList
